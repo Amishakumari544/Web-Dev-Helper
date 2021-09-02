@@ -1,4 +1,4 @@
-# friendly Pack For Developers 
+# Developer Pack
 
 :wave: Hi! faced lot of difficulty to find helpful stuffs. So I Created this that will be helpful for everyone. I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. 
 ### :bookmark_tabs: Interview tips and resume
@@ -13,7 +13,6 @@
   
     # Podcasts
   Here are few podcasts that I loved listening to.
-  * [TeaWithTanay](https://teawithtanay.com/) by Tanay Pratap
   * [Cero](https://www.youtube.com/watch?v=urhMZSeG33U&list=PLSAVyiM48sqsbznpqLl2l4xR0e7gWJ2T-) by Varun Mayya
   * [Syntax.fm](https://syntax.fm/) by Wes Bos and Scott Tolinski
   * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
