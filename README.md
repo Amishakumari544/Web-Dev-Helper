@@ -67,8 +67,9 @@
 |No. |Name | work  |  
 |-|------ |-----|
 |1|[Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha) | Great content on his youtube channel|CNCF Ambassador | MLH Coach | Data Structures 
-|3|[Sumeet Malik](https://www.youtube.com/c/Pepcoding) | Great content on his youtube channel | Data Structures  |
-|3|[Striver](https://www.youtube.com/channel/UCvEKHATlVq84hm1jduTYm8g) | Engineer Directi Ex Engineer @Amazon, Great content on his youtube channel | Data Structures |           |4|[Luv](https://www.youtube.com/c/LuvIsMe) | Engineer Directi, Great content on his youtube channel | Data Structures    
+|2|[Sumeet Malik](https://www.youtube.com/c/Pepcoding) | Great content on his youtube channel | Data Structures  |
+|3|[Striver](https://www.youtube.com/channel/UCvEKHATlVq84hm1jduTYm8g) | Engineer Directi Ex Engineer @Amazon, Great content on his youtube channel | Data Structures |           
+|4|[Luv](https://www.youtube.com/c/LuvIsMe) | Engineer Directi, Great content on his youtube channel | Data Structures    
 |5|[Tanay Pratap](https://twitter.com/tanaypratap) | Engineer @Microsoft, Great content on his instagram and youtube channel                     |
 |6|[Brad Traversy](https://twitter.com/traversymedia)      |  watch his crash courses on youtube                  |
 |7|[FLORIN POP](https://www.florin-pop.com/blog)      | youtube tutorials and 100 projects on his blogs                   |
@@ -97,6 +98,7 @@
 |30|[Mosh Hamedani](https://www.youtube.com/user/programmingwithmosh)      | loved his teaching style, check his youtube channel                 |
 |32|[areknaow](https://areknawo.com/)      | blogs on web technologies                |
 |33|[Net Ninja](https://www.youtube.com/c/TheNetNinja)      | great explanation on various Technologies                   |
+|34|[Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Great content on youtube channel regarding open source guidance|
 
 
 
