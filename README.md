@@ -101,7 +101,7 @@
 |34|[Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Great content on youtube channel regarding open source guidance|
 
 
-# Coding Communities
+# Open Source Communities
 |1|[Eddiehub](https://discord.com/invite/jZQs6Wu) | Great Community For open scorce |
 |2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great Community For Coding and having some fun |
 
