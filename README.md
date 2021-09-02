@@ -1,4 +1,4 @@
-# Developer Pack
+# Developer Pack 🚀
 
 :wave: Hi! faced lot of difficulty to find helpful stuffs. So I Created this that will be helpful for everyone. I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. 
 ### :bookmark_tabs: Interview tips and resume
