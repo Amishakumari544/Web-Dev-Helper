@@ -99,13 +99,18 @@
 |32|[areknaow](https://areknawo.com/)      | blogs on web technologies                |
 |33|[Net Ninja](https://www.youtube.com/c/TheNetNinja)      | great explanation on various Technologies                   |
 |34|[Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Great content on youtube channel regarding open source guidance|
+|35|[CodeWithHarry](https://www.youtube.com/c/CodeWithHarry/featured) | From Web Development to Data Structures to Languages there is nothing he did not teach|
+|36|[Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA) | Web Development and Full Stack
+|37|[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/videos) | Gives superb tricks and tips on Web Development
+|38|[Techworld with Nana](https://www.youtube.com/c/TechWorldwithNana) | DevOps and Kubernetes
 
 
-# Coding Communitys
+# communitys
+
 |No. |Name | what they do  |  
 |-|------ |-----|
-|1|[Eddiehub](https://discord.com/invite/jZQs6Wu) | Great Communit For open scorce |
-|2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great Communit For Coding and having some fun |
+|1|[Eddiehub](https://discord.com/invite/jZQs6Wu) | Great community For open scorce |
+|2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great community For Coding and having some fun |
 
 
 
