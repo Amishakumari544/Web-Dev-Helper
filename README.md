@@ -99,6 +99,8 @@
 |32|[areknaow](https://areknawo.com/)      | blogs on web technologies                |
 |33|[Net Ninja](https://www.youtube.com/c/TheNetNinja)      | great explanation on various Technologies                   |
 |34|[Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Great content on youtube channel regarding open source guidance|
+|35|[CodeWithHarry](https://www.youtube.com/c/CodeWithHarry/featured) | From Web Development to Data Structures to Languages there is nothing he did not teach|
+|36|[Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA) | Web Development and Full Stack
 
 
 # Coding Communitys
