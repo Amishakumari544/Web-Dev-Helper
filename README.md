@@ -1,6 +1,6 @@
 # Blogs
 
-:wave: Hi! I have been reading a lots of blogs. I learnt and understood a lot just by reading them and I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. 
+:wave: Hi! faced lot of difficulty to find helpful stuffs. So I Created this that will be helpful for everyone. I feel like these should be read by everyone.  So everytime I come across something interesting and helpful, I am gonna add it here. 
 ### :bookmark_tabs: Interview tips and resume
 
   - [How to write great resume for software engineers ](https://www.freecodecamp.org/news/how-to-write-a-great-resume-for-software-engineers-75d514dd8322/)
@@ -11,6 +11,15 @@
   - [What I want (and don’t want) to see on your software engineering resume](https://medium.com/p/cbc07913f7f6)
   - [10 tips for approaching coding interview questions](https://blog.interviewcamp.io/2019-08-05/tips-for-approaching-coding-interview-questions/)
   
+    # Podcasts
+  Here are few podcasts that I loved listening to.
+  * [TeaWithTanay](https://teawithtanay.com/) by Tanay Pratap
+  * [Cero](https://www.youtube.com/watch?v=urhMZSeG33U&list=PLSAVyiM48sqsbznpqLl2l4xR0e7gWJ2T-) by Varun Mayya
+  * [Syntax.fm](https://syntax.fm/) by Wes Bos and Scott Tolinski
+  * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
+  * [Developer Tea](https://spec.fm/podcasts/developer-tea)
+  * [Soft Skills Engineering](https://softskills.audio/episodes/)
+  * [CodeNewbie Podcast ](https://www.codenewbie.org/podcast)
   
   ### :file_folder: Tutorials and resources
   * [guide to web development](https://coder-coder.com/learn-web-development/)
@@ -37,15 +46,7 @@
    * [Dave Ceddia](https://daveceddia.com/archives/) - Most of the posts are about React or Angular
    * [Josh W Comeau] (https://joshwcomeau.com) - Great blog with tutorial articles with snippets for react, gatsby and more
 
-  # Podcasts
-  Here are few podcasts that I loved listening to.
-  * [TeaWithTanay](https://teawithtanay.com/) by Tanay Pratap
-  * [Cero](https://www.youtube.com/watch?v=urhMZSeG33U&list=PLSAVyiM48sqsbznpqLl2l4xR0e7gWJ2T-) by Varun Mayya
-  * [Syntax.fm](https://syntax.fm/) by Wes Bos and Scott Tolinski
-  * [Ladybug](https://ladybug.dev/) by Kelly Vaughn, Ali Spittel & Emma Wedekind
-  * [Developer Tea](https://spec.fm/podcasts/developer-tea)
-  * [Soft Skills Engineering](https://softskills.audio/episodes/)
-  * [CodeNewbie Podcast ](https://www.codenewbie.org/podcast)
+
   
   ### :man_technologist:	Learning how to code
   
