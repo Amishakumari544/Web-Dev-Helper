@@ -103,7 +103,7 @@
 
 # Coding Communities
 |1|[Eddiehub](https://discord.com/invite/jZQs6Wu) | Great Community For open scorce |
-|2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great Communit For Coding and having some fun |
+|2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great Community For Coding and having some fun |
 
 
 :pushpin: If you feel something to be shared, contribute here and star this repo 🌟
