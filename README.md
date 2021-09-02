@@ -102,6 +102,8 @@
 
 
 # Coding Communitys
+|No. |Name | what they do  |  
+|-|------ |-----|
 |1|[Eddiehub](https://discord.com/invite/jZQs6Wu) | Great Communit For open scorce |
 |2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great Communit For Coding and having some fun |
 
