@@ -105,9 +105,9 @@
 |38|[Techworld with Nana](https://www.youtube.com/c/TechWorldwithNana) | DevOps and Kubernetes
 
 
-# communitys
+# communities
 
-|No. |Name | what they do  |  
+|No. |Name | Work  |  
 |-|------ |-----|
 |1|[Eddiehub](https://discord.com/invite/jZQs6Wu) | Great community For open scorce |
 |2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great community For Coding and having some fun |
