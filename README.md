@@ -104,10 +104,14 @@
 |37|[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/videos) | Gives superb tricks and tips on Web Development
 |38|[Techworld with Nana](https://www.youtube.com/c/TechWorldwithNana) | DevOps and Kubernetes
 
-# Coding Communitys
-|1|[Eddiehub](https://discord.com/invite/jZQs6Wu) | Great Communit For open scorce |
-|2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great Communit For Coding and having some fun |
-|3|[Community Classroom](https://discord.gg/Msn6JZ4C) | Great community by Kunal Kushwaha
+
+# communitys
+
+|No. |Name | what they do  |  
+|-|------ |-----|
+|1|[Eddiehub](https://discord.com/invite/jZQs6Wu) | Great community For open scorce |
+|2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great community For Coding and having some fun |
+
 
 
 :pushpin: If you feel something to be shared, contribute here and star this repo 🌟
