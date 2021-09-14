@@ -103,6 +103,7 @@
 |36|[Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA) | Web Development and Full Stack
 |37|[Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/videos) | Gives superb tricks and tips on Web Development
 |38|[Techworld with Nana](https://www.youtube.com/c/TechWorldwithNana) | DevOps and Kubernetes
+|38|[Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) | Learn programming   software engineering  machine learning and everything tech channel
 
 
 # Communities
