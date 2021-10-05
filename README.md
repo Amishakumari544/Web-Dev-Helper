@@ -113,7 +113,7 @@
 |2|[BlahajGang](https://discord.com/invite/763bUceUHb) | Great community For Coding and having some fun |
 |3|[Design & Code](https://discord.gg/druweDMn3s) | A great Community for Web Developers and Designers |
 |4|[MichiSpotLight](https://discord.gg/cdwm73zy) | A community that helps you find Opportunies and learnings |
-
-
+|5|[Web3](https://discord.gg/8Xsg3hZu) | A beginner level community to help noobs |
+|6|[Centrestage](https://discord.gg/8Xsg3hZu) | A place where you can learn english by speaking with other folks |
 
 :pushpin: If you feel something to be shared, contribute here and star this repo 🌟
