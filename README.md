@@ -30,6 +30,7 @@
   * [A Simple Progressive Web App Tutorial](https://link.medium.com/DQ1PWzAlX1)
   * [How To Code in JavaScript](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript)
   * [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=)
+  * [scrimba-Learn to Code with Interactive Tutorials](https://scrimba.com/)
   
   ### :raising_hand_man: People whose blogs are very helpful while learning
   
@@ -115,5 +116,6 @@
 |4|[MichiSpotLight](https://discord.gg/cdwm73zy) | A community that helps you find Opportunies and learnings |
 |5|[Web3](https://discord.gg/8Xsg3hZu) | A beginner level community to help noobs |
 |6|[Centrestage](https://discord.gg/8Xsg3hZu) | A place where you can learn english by speaking with other folks |
+|7|[Buildspace](https://buildspace.so) | A great place to get started with web3 |
 
 :pushpin: If you feel something to be shared, contribute here and star this repo 🌟
